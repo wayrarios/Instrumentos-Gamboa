@@ -1,0 +1,61 @@
+
+        @media (max-width: 1440px) {
+        body {
+        justify-content: center;
+        }
+        }
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    padding: 0;
+    color: #333;
+}
+
+    main {
+        background-image: url(assets/menu_elementos/menu_pequeño.png);
+        color: white;
+        width:1440px;
+        height: 145px;
+        background-position: center;
+    }
+
+       #navegación {
+    width: 726px;
+    height: 45px;
+    gap: 57px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    float: right;
+    flex-wrap: wrap;
+    text-align: center;
+   }
+      .menú1{
+    width: 57px;
+    height: 45px;
+    font-size: 20px;
+        }
+
+    .menú2{
+    width: 102px;
+    height: 45px;
+    font-size: 20px;
+        }
+
+    .menú3{
+    width: 88px;
+    height: 45px;
+    font-size: 20px;
+        }
+
+    .menú4{
+    width: 87px;
+    height: 45px;
+    font-size: 20px;
+        }
+    
+    .menú5{
+    width: 164px;
+    height: 31.25px;
+        }
